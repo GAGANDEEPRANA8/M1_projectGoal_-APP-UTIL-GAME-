@@ -1,3 +1,4 @@
+# REPORT
 # Description
 * Basic project which can be used to elect candiates from given list and shows the output like Cast the Vote, Find Vote Count and Find leading Candidates it is like an online voting system.
 
@@ -49,6 +50,25 @@ It provides adequate and relevant information about the various activities and p
 # Low Level
 <!--images-->
 ![Markdown logo](https://pdf-service-lucidchart-com.s3.amazonaws.com/36c48d10-ce2d-4749-9650-3414e053a915?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICRi%2FjfebxQwJoK5DOuursBx4zOlP7JxnlWm%2F0v64EaDAiAaSDrP9RYCHOqWVTezgGRnUppY%2Buoa6MtUUILE3pv%2B%2FSr6AwhGEAAaDDkzNTYwNjkyNjE4MiIMIvsDGtalf8uJuigfKtcD5nb%2FUTzAu1ZszACu%2BG23vYmDS9lLTXIh7efkXtLl%2FzrW4mCl%2B3GLKQ1eQ%2Bi88Vkl%2FS3dMv5GIiP2bQ262GNTRHeZ8Isn%2F0Zh8FmFfggtm0RHYUF8nSe%2BlCaZhKyJG%2BS2L8gdgPz%2ByN%2FdsObdpWGZ1jxVa8Eh12uTEL7x0Q0TKvqBgAKqddt9eF510HkQf77GE1m6uQK4cSXYaq2ttIqnf%2Fb3AhW%2BRocJgHXlC18M%2F9y36qOXy8LAnRKKD9rDiC5AU%2BuWZmbUAMGYjS%2BDV8LTUQuu205dCb4tRe%2BJL9XwRSKYBWO%2B38yoqOWXkNw%2FYrmCYlasTg0uk9p2Ex6knyd0U6Vsp16pW%2BmMJaeQBfM%2FEQ6h2ZT21WCyvB49NBlgEc2%2B5SAwD18lBVa9jp2CXxyYQQcUWKgrsZ2m0qct5RpeuCTKifWn25cg9n6VTQjphqivMulc5Sl8svVbCbZ%2Bc1%2BEHm5nYd35ntiAHBTUYXpBzQfhKjCsGn0i87ysqwlAnduIFcQIxYC%2F%2BWZFMfYBqAH4GUsLIRROazTfoKFPPqTHiQCvWYAR6ICq0JZThx1fdTPTqywA3EezaGxl0gS5aRphJpRUdZbbUDlIinbhPs8cdOJdKzXXjYT0MLWPzpAGOqYBKJL8SW73K00ycpPMmvhI2qs9Za0Ss4bMuFFbZwRGwxMG5hP9XBRRUhoDInjO0WQC8%2FA6%2FxO%2B%2Bii0YZfLhdCXbh40FoW%2F3uaaXyQIM36P9fKPHXJx8ructIXPdMwJKjptvRNZvpWieEvAy4bFzM7KajCVLT6KTCqbJAUMN8Ib4uJrkKSgiEGXJgaitRhZSPzcCLlmTQnWfOVa0c2So9mRQEWfMTMZHw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220221T132027Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=ASIA5TVUEXNTMWQ7MHJR%2F20220221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cc160a8870886cab21eb8ccb3e72642a608373022e8010c7d29c17d5fd049c8c)
-## References
+
+# Test plan
+<!-- chart -->
+| No | Test case ID | Test case Objective| Prerequisite	|Steps | Input data | Expected Result |	Actual Result |Status |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|1|	TC-1 |	Cast the Vote |	Welcome to Election/Voting 2022|	Enter operation 1|	1/4	|thanks for vote !!|	thanks for vote !!	|Pass|
+|2|	TC-2|	Cast the Vote |Welcome to Election/Voting 2022|	Enter operation 2|	2/4|	thanks for vote !!|thanks for vote !!| Pass|
+|3|	TC-3|	Cast the Vote |	Welcome to Election/Voting 2022|	Enter operation 3|	3/4|	thanks for vote !!|	thanks for vote !!|	Pass|
+|4|	TC-4|	Cast the Vote |	Welcome to Election/Voting 2022|	Enter operation 4|	4/4|	thanks for vote !!	|thanks for vote !!|pass|
+|5|	TC-5|	Cast the Vote|	Welcome to Election/Voting 2022|	Enter operation 5|	0|EXIT	 | Error: Invalid Choice|	Fail|
+|6|	TC-6|	Find Vote Count|	Voting Statics|	Enter operation 2|	if input 1/4 |	[Arvind Kejriwal]	|[Arvind Kejriwal]|	Pass|
+|7|	TC-7|	Find Vote Count|	Voting Statics|	Enter operation 3|	if input 3/4 |	[ Anil Chaudhary]	|[ Anil Chaudhary]|	Pass|
+|8|	TC-8|	Find leading Candidate|	Voting Statics|	Enter operation 6|	if input 2/4 |	[ Adesh Kumar Gupta]	|[Adesh Kumar Gupta]|	Pass|
+
+# Images And Output
+
+
+
+# References
 https://youtu.be/cLDdb_VZh_I
+
 https://www.yuvatech.me/2021/10/voting-system-project-in-c-programming.html
