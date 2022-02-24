@@ -9,5 +9,5 @@
 |5|	TC-5|	Cast the Vote|	Welcome to Election/Voting 2022|	Enter operation 5|	0|EXIT	 | Error: Invalid Choice|	Fail|
 |6|	TC-6|	Find Vote Count|	Voting Statics|	Enter operation 2|	if input 1/4 |	[Arvind Kejriwal]	|[Arvind Kejriwal]|	Pass|
 |7|	TC-7|	Find Vote Count|	Voting Statics|	Enter operation 3|	if input 3/4 |	[ Anil Chaudhary]	|[ Anil Chaudhary]|	Pass|
-|8|	TC-7|	Find leading Candidate|	Voting Statics|	Enter operation 6|	if input 2/4 |	[ Adesh Kumar Gupta]	|[Adesh Kumar Gupta]|	Pass|
+|8|	TC-8|	Find leading Candidate|	Voting Statics|	Enter operation 6|	if input 2/4 |	[ Adesh Kumar Gupta]	|[Adesh Kumar Gupta]|	Pass|
 
