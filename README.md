@@ -22,7 +22,7 @@ Basic project which can be used to elect candiates from given list and shows the
 https://youtu.be/cLDdb_VZh_I
 
 https://www.yuvatech.me/2021/10/voting-system-project-in-c-programming.html
-
+[![Codacy Security Scan](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/codacy.yml/badge.svg)](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/codacy.yml)
 
 
 
