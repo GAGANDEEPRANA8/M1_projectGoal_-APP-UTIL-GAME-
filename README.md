@@ -23,7 +23,7 @@ https://youtu.be/cLDdb_VZh_I
 
 https://www.yuvatech.me/2021/10/voting-system-project-in-c-programming.html
 
-[![Static Code Analysis](https://github.com/GAGANRDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/static.yml/badge.svg)](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/static.yml)
+
 
 
 
