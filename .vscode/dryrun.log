@@ -1,6 +1,6 @@
 make.exe --dry-run --keep-going --print-directory
-make.exe: Entering directory `c:/Users/GAGAN/Downloads/L&T/M1_projectGoal_-APP-UTIL-GAME--1'
-make.exe: Leaving directory `c:/Users/GAGAN/Downloads/L&T/M1_projectGoal_-APP-UTIL-GAME--1'
+make.exe: Entering directory `c:/Users/GAGAN/Downloads/L&T/M1_projectGoal_-APP-UTIL-GAME--1/M1_projectGoal_-APP-UTIL-GAME-'
+make.exe: Leaving directory `c:/Users/GAGAN/Downloads/L&T/M1_projectGoal_-APP-UTIL-GAME--1/M1_projectGoal_-APP-UTIL-GAME-'
  
 make.exe: *** No targets specified and no makefile found.  Stop.
  
