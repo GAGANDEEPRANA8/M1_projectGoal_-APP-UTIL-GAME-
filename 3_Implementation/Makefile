@@ -1,4 +1,4 @@
-PROJ_NAME= complex
+PROJ_NAME= voting
 SRC=src/main.c\ 
 src/complex.c\
 
