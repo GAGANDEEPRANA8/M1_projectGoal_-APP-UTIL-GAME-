@@ -1,5 +1,5 @@
 /**
- * @file complex.h
+ * @file voting.h
  * @author GAGANDEEP RANA 
  * @brief this project about a Election voting 2022
  * @version 0.1
