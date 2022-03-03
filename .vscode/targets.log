@@ -8,7 +8,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This program built for i386-pc-mingw32
  
 
-# Make data base, printed on Wed Mar 02 18:30:50 2022
+# Make data base, printed on Fri Mar 04 00:54:45 2022
 
 # Variables
 
@@ -57,7 +57,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-dcfeb543-9b57-430b-8d41-3c452d8674bb-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-79995683-c703-4640-aba7-394b9f157edb-sock
 # environment
 VSCODE_CWD = C:\Users\GAGAN\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -73,7 +73,8 @@ USERPROFILE = C:\Users\GAGAN
 # environment
 ALLUSERSPROFILE = C:\ProgramData
 # environment
-VSCODE_LOG_STACK = false
+VSCODE_LO 
+G_STACK = false
 # environment
 NUMBER_OF_PROCESSORS = 8
 # environment
@@ -83,7 +84,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_8424_HANNXLAULJDLZCHG
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_23236_PERUCWLFYFIATWFQ
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -203,7 +204,7 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 8424
+VSCODE_PID = 23236
 # environment
 USERDOMAIN_ROAMINGPROFILE = LAPTOP-50BQ4TIL
 # variable set hash-table stats:
@@ -217,10 +218,7 @@ USERDOMAIN_ROAMINGPROFILE = LAPTOP-50BQ4TIL
 
 # . (key c:/Users/GAGAN/Downloads/L&T/M1_projectGoal_-APP-UTIL-GAME--1/M1_projectGoal_-APP-UTIL-GAME-, mtime 1646135369): 14 files, no impossibilities.
 # C:\WinAVR-20100110\bin (key C:/WinAVR-20100110/bin, mtime 1644950927): 75 files, no impossibilities.
-# C 
-make.exe: *** No rule to make target `all'.  Stop.
- 
-:\WinAVR-20100110\utils\bin (key C:/WinAVR-20100110/utils/bin, mtime 1644950964): 99 files, no impossibilities so far.
+# C:\WinAVR-20100110\utils\bin (key C:/WinAVR-20100110/utils/bin, mtime 1644950964): 99 files, no impossibilities so far.
 
 # 188 files, no impossibilities in 3 directories.
 
@@ -284,6 +282,8 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Wed Mar 02 18:30:50 2022
+# Finished Make data base on Fri Mar 04 00:54:45 2022
 
+ 
+make.exe: *** No rule to make target `all'.  Stop.
  
