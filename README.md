@@ -25,7 +25,7 @@ https://www.yuvatech.me/2021/10/voting-system-project-in-c-programming.html
 
 [![Codacy Security Scan](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/codacy.yml/badge.svg)](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/codacy.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d5277205d3504bb4bb4bce203d191c97)](https://www.codacy.com/gh/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-&amp;utm_campaign=Badge_Grade)
-[![Cppcheck](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/cpp.yml/badge.svg)](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/cpp.yml)
+[![Cppcheck](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/c-cpp.yml)
 [![Static Code Analysis](https://github.com/GAGANDEEPRANA8/M1_projectGoal_-APP-UTIL-GAME-/actions/workflows/static.yml/badge.svg)]          
 [![Code Grade](https://api.codiga.io/project/31556/status/svg)]
 [![Code Quality Score](https://api.codiga.io/project/31556/score/svg)]
